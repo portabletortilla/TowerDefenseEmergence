@@ -1,0 +1,17 @@
+res://Stages/Levels/Map1.tscn
+res://Assets/Ui/towerIcons/tower_panel.gd
+res://Assets/Ui/level_ui.gd
+res://Mobs/Adds/elec_enemy.gd
+res://Mobs/Adds/fire_enemy.gd
+res://Stages/Scenes/scene_handler.gd
+res://Score/ScoreSave2025_04_14_17_26_21.txt
+res://Mobs/Adds/enemy_green.tscn
+res://Towers/Wind/wind_tower.tscn
+res://Assets/Ui/EventUi.tscn
+res://Assets/Ui/level_ui.tscn
+res://Mobs/Drops/Reward.tscn
+res://Towers/Fire/fire_tower.tscn
+res://Assets/Ui/towerIcons/elec_tower_panel.tscn
+res://Towers/Elec/elec_tower.tscn
+res://Towers/Water/water_tower.tscn
+res://Stages/Levels/Map2.tscn

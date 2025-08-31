@@ -1,0 +1,14 @@
+AnimatedSprite2D
+Node
+AnimationPlayer
+Sprite2D
+HBoxContainer
+CanvasLayer
+CPUParticles2D
+GPUParticles2D
+Button
+Label
+StaticBody2D
+RigidBody2D
+Timer
+Panel
